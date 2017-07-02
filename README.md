@@ -9,10 +9,10 @@
 npm install -g @angular/cli
 ```
 4. Voer het volgende commando uit om een nieuw project te starten:
+Vervang hierbij [PROJECTNAAM] door een naam voor je project.
 ```
 ng new [PROJECTNAAM]
 ```
-Vervang hierbij [PROJECTNAAM] door een naam voor je project.
 5. Er is nu een nieuw project voor je aangemaakt. Om te testen of alles naar behoren werkt, ga je via de command line naar de map waar je net aangemaakte project staat en voer je het volgende commando uit:
 ```
 ng serve
